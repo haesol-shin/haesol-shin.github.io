@@ -1,8 +1,9 @@
 github_users:
-  - haesol1013
+  - haesol-shin
 
 repo_description_lines_max: 2
 
 github_repos:
+  - LatentForge/voicestudio
   - thisisthepy/PyREPL
-  - thisisthepy/toolchain
+  - thisisthepy/pmm-toolchain
