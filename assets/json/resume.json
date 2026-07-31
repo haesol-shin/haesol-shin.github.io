@@ -109,7 +109,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Python", "Kotlin", "Java", "C", "C++"]
+      "keywords": ["Python", "Kotlin", "Java", "C/C++"]
     },
     {
       "name": "Frameworks",
