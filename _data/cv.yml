@@ -66,3 +66,29 @@
     - title: Gold Prize (Director's Award)
       institution: 2024 Open Source Developers Competition — Student Division
       year: 2024
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - Python
+        - Kotlin
+        - Java
+        - C
+        - C++
+    - title: Frameworks
+      items:
+        - PyTorch
+        - Transformers
+    - title: Tools
+      items:
+        - Git / GitHub
+        - Linux
+        - Gradle
+        - FastAPI
+    - title: Interests
+      items:
+        - AI Agents
+        - Agentic Workflows
+        - Speech Synthesis
+        - Generative AI
