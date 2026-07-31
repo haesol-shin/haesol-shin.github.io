@@ -31,6 +31,12 @@
 - title: Selected Projects
   type: time_table
   contents:
+  - title: VoiceStudio
+    institution: Unified toolkit for text-style prompted speech synthesis and voice
+      editing.
+    year: Research Software
+    description:
+    - https://github.com/LatentForge/voicestudio
   - title: PyREPL
     institution: UI-enabled Python REPL for Android, iOS, and desktop environments.
     year: Software
@@ -42,12 +48,6 @@
     year: Software
     description:
     - https://github.com/thisisthepy/pmm-toolchain
-  - title: VoiceStudio
-    institution: Unified toolkit for text-style prompted speech synthesis and voice
-      editing.
-    year: Research Software
-    description:
-    - https://github.com/LatentForge/voicestudio
 - title: Awards
   type: time_table
   contents:
