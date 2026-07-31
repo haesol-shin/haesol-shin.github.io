@@ -109,15 +109,7 @@
   "skills": [
     {
       "name": "Software",
-      "keywords": [
-        "Python",
-        "Kotlin",
-        "Java",
-        "C",
-        "C++",
-        "PyTorch",
-        "Transformers"
-      ]
+      "keywords": ["Python", "Kotlin", "Java", "C", "C++", "PyTorch", "Transformers"]
     }
   ]
 }
