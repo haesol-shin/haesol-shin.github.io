@@ -20,8 +20,9 @@ announcements:
 
 I am an undergraduate student majoring in Artificial Intelligence at Chungnam National University.
 
-I am currently an undergraduate research assistant at DO Lab, where I work on Text-to-Speech, speech synthesis, and generative AI. My interests include controllable speech generation and style consistency in TTS.
+I am currently an undergraduate research assistant at DOLAB (Prof. Sangmook Kim), where I work on Text-to-Speech, speech synthesis, controllable speech generation, and generative AI. I am also actively exploring AI agents and agentic workflows, including contributing to open-source AI coding agent projects.
 
+<!-- BEGIN:facts -->
 ### Research Interests
 
 - Text-to-Speech and speech synthesis
@@ -35,5 +36,6 @@ I am currently an undergraduate research assistant at DO Lab, where I work on Te
 
 ### Research Experience
 
-- **Undergraduate Research Assistant**, DO Lab  
+- **Undergraduate Researcher**, DO Lab  
   Sep. 2025 - Present
+<!-- END:facts -->

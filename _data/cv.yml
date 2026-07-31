@@ -1,54 +1,68 @@
+# GENERATED FROM haesol-shin/resume.yaml via generate.py — DO NOT EDIT DIRECTLY
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Haesol Shin
-    - name: Email
-      value: haesol.research@gmail.com
-    - name: Website
-      value: https://haesol-shin.github.io
-
+  - name: Full Name
+    value: Haesol Shin
+  - name: Email
+    value: haesol.me@gmail.com
+  - name: Website
+    value: https://haesol-shin.github.io
 - title: Education
   type: time_table
   contents:
-    - title: B.S. in Artificial Intelligence
-      institution: Chungnam National University
-      year: Mar. 2024 - Feb. 2028 (expected)
-
+  - title: B.S. — Artificial Intelligence
+    institution: Chungnam National University
+    year: Mar. 2024 - Feb. 2028 (expected)
 - title: Research Experience
   type: time_table
   contents:
-    - title: Undergraduate Research Assistant
-      institution: DO Lab
-      year: Sep. 2025 - Present
-      description:
-        - Text-to-Speech, speech synthesis, and generative AI.
-
+  - title: Undergraduate Researcher
+    institution: DOLAB (Data Optimization Lab), Chungnam National University
+    year: Sep. 2025 - Present
+    description:
+    - First-authored "Analyzing and Improving Voice Consistency in Voice Design TTS,"
+      accepted to the Korea Computer Congress (KCC) 2026 as a Regular Track oral presentation.
+    - Studied speaker identity drift in natural-language-guided TTS; designed a training
+      pipeline with special conditioning tokens and teacher-forcing-based consistency
+      loss.
+    - Built a reproducible benchmark dataset; evaluated voice consistency via generation-to-generation
+      cosine similarity of speaker embeddings.
 - title: Selected Projects
   type: time_table
   contents:
-    - title: VoiceStudio
-      institution: Unified toolkit for text-style prompted speech synthesis and voice editing
-      year: Research Software
-      description:
-        - https://github.com/LatentForge/voicestudio
-    - title: PyREPL
-      institution: UI-enabled Python REPL for Android, iOS, and desktop
-      year: Software
-      description:
-        - https://github.com/thisisthepy/PyREPL
-    - title: toolchain
-      institution: Python multiplatform build plugin/tool
-      year: Software
-      description:
-        - https://github.com/thisisthepy/pmm-toolchain
-
+  - title: PyREPL
+    institution: UI-enabled Python REPL for Android, iOS, and desktop environments.
+    year: Software
+    description:
+    - https://github.com/thisisthepy/PyREPL
+  - title: toolchain
+    institution: Python multiplatform build plugin/tool for Kotlin Multiplatform Mobile
+      workflows.
+    year: Software
+    description:
+    - https://github.com/thisisthepy/pmm-toolchain
+  - title: VoiceStudio
+    institution: Unified toolkit for text-style prompted speech synthesis and voice
+      editing.
+    year: Research Software
+    description:
+    - https://github.com/LatentForge/voicestudio
 - title: Awards
   type: time_table
   contents:
-    - title: Gold Award
-      institution: Open Source Software Developer Competition
-      year: 2024
-    - title: Selected, 100 Research Teams
-      institution: AI Champion Competition
-      year: 2025
+  - title: Gold Prize (Director's Award)
+    institution: 2024 Open Source Developers Competition — Student Division
+    year: 2024
+  - title: Selected — Top 100 Teams
+    institution: 2025 AI Champion Competition
+    year: 2025
+  - title: Selected — Top 100 Teams (ongoing)
+    institution: 2026 AI Champion Competition
+    year: 2026
+  - title: Best Paper Award
+    institution: Korea Computer Congress (KCC) 2026
+    year: 2026
+  - title: Selected — KT Digital Talent Scholarship
+    institution: KT Group Hope Sharing Foundation
+    year: 2026
