@@ -108,8 +108,20 @@
   ],
   "skills": [
     {
-      "name": "Software",
-      "keywords": ["Python", "Kotlin", "Java", "C", "C++", "PyTorch", "Transformers"]
+      "name": "Languages",
+      "keywords": ["Python", "Kotlin", "Java", "C", "C++"]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": ["PyTorch", "Transformers"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git / GitHub", "Linux", "Gradle", "FastAPI"]
+    },
+    {
+      "name": "Interests",
+      "keywords": ["AI Agents", "Agentic Workflows", "Speech Synthesis", "Generative AI"]
     }
   ]
 }
