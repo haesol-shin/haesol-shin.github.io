@@ -51,12 +51,6 @@
 - title: Awards
   type: time_table
   contents:
-  - title: Gold Prize (Director's Award)
-    institution: 2024 Open Source Developers Competition — Student Division
-    year: 2024
-  - title: Selected — Top 100 Teams
-    institution: 2025 AI Champion Competition
-    year: 2025
   - title: Selected — Top 100 Teams (ongoing)
     institution: 2026 AI Champion Competition
     year: 2026
@@ -66,3 +60,9 @@
   - title: Selected — KT Digital Talent Scholarship
     institution: KT Group Hope Sharing Foundation
     year: 2026
+  - title: Selected — Top 100 Teams
+    institution: 2025 AI Champion Competition
+    year: 2025
+  - title: Gold Prize (Director's Award)
+    institution: 2024 Open Source Developers Competition — Student Division
+    year: 2024

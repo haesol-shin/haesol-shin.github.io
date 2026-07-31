@@ -76,34 +76,34 @@
   ],
   "awards": [
     {
-      "title": "Gold Prize (Director's Award)",
-      "date": "2024",
-      "awarder": "2024 Open Source Developers Competition — Student Division",
-      "summary": "Ministry of Science and ICT (MSIT) / NIPA"
-    },
-    {
-      "title": "Selected — Top 100 Teams",
-      "date": "2025",
-      "awarder": "2025 AI Champion Competition",
-      "summary": "Ministry of Science and ICT (MSIT) / IITP"
-    },
-    {
       "title": "Selected — Top 100 Teams (ongoing)",
       "date": "2026",
       "awarder": "2026 AI Champion Competition",
-      "summary": "Ministry of Science and ICT (MSIT) / IITP"
+      "summary": "MSIT / IITP"
     },
     {
       "title": "Best Paper Award",
       "date": "2026",
       "awarder": "Korea Computer Congress (KCC) 2026",
-      "summary": "Korean Institute of Information Scientists and Engineers (KIISE)"
+      "summary": "KIISE"
     },
     {
       "title": "Selected — KT Digital Talent Scholarship",
       "date": "2026",
       "awarder": "KT Group Hope Sharing Foundation",
       "summary": "KT Corporation"
+    },
+    {
+      "title": "Selected — Top 100 Teams",
+      "date": "2025",
+      "awarder": "2025 AI Champion Competition",
+      "summary": "MSIT / IITP"
+    },
+    {
+      "title": "Gold Prize (Director's Award)",
+      "date": "2024",
+      "awarder": "2024 Open Source Developers Competition — Student Division",
+      "summary": "MSIT / NIPA"
     }
   ],
   "skills": [
